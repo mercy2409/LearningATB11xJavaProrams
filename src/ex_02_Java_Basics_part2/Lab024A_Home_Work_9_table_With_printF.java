@@ -1,6 +1,6 @@
 package ex_02_Java_Basics_part2;
 
-public class Lab024A_Home_Work_19_table_With_printF {
+public class Lab024A_Home_Work_9_table_With_printF {
 
     public static void main(String[] args) {
 
