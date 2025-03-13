@@ -16,11 +16,6 @@ public class Lab024A_Home_Work_9_table_With_printF {
         System.out.printf("9*8 = %d", a*8);
         System.out.printf("9*9 = %d", a*9);
         System.out.printf("9*10 = %d", a*10);
-
-
-
-
-
-
+     
     }
 }
