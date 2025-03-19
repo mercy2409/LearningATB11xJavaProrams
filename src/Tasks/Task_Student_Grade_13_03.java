@@ -28,27 +28,5 @@ public class Task_Student_Grade_13_03 {
 }
 
 
-
-       /* String grade;
-        :(marks >=90 && marks <=100) ? "A"
-        :(marks >=80 && marks <=89) ? "B"
-        :(marks >=70 && marks <=79) ? "C"
-        :(marks >=60 && marks <=69) ? "D"
-        :(marks >=0 && marks <=59) ? "F";
-           System.out.println("Your grade is: " + grade);
-            scanner.close();
-
- */
-       /* Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter Score Value: ");
-        int n = scanner.nextInt();
-        String result = (n < 0 || n > 100) ? "Invalid Score! Please enter a value between 0 and 100."
-                :(n<=100 && n>=90) ?"A"
-                :(n<=89 && n>=80)?"B"
-                :(n<=79 && n>=70)?"C"
-                :(n<=69 && n>=60)?"D":"F";
-        System.out.println("Your grade is: " + result);*/
-
-
 }
 
