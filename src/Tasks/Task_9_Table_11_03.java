@@ -1,6 +1,6 @@
-package Task;
+package Tasks;
 
-public class Hw_9_Table_11_03 {
+public class Task_9_Table_11_03 {
     public static void main(String[] args) {
         int num = 9;
 
