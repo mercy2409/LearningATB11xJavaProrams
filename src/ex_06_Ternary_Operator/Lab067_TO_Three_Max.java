@@ -1,6 +1,4 @@
-package Ternary_Operator;
-
-import org.w3c.dom.ls.LSOutput;
+package ex_06_Ternary_Operator;
 
 public class Lab067_TO_Three_Max {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package Tasks;
 
-public class Task_Math_Functions_12_03 {
+public class Task_002_Math_Functions_12_03 {
     public static void main(String[] args) {
 // The given mathematical expression is: ( 𝑥 2 + 𝑦 2 − ∣ 𝑧 ∣ ) 3 3 (x 2 +y 2 −∣z∣) ​
         //x = 10;

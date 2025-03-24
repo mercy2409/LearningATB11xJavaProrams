@@ -1,6 +1,6 @@
 package Tasks;
 
-public class Task_9_Table_11_03 {
+public class Task_001_Table_11_03 {
     public static void main(String[] args) {
         int num = 9;
 
